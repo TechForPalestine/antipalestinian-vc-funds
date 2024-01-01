@@ -33,7 +33,7 @@ outrage at these firms' continued support for Israel throughout the genocide:
 - Venture Capitalists at the firms who signed have told us they felt pressured
   to sign, but do not feel they have sufficient cover to remove their names.
 
-## The list
+## About the list
 
 These founders, LPs, tech employees, and VCs of conscience, have asked us to
 compile a simple list so they may know which VC firms to avoid.
@@ -56,3 +56,8 @@ on this repository when that happens.
 We welcome PRs to add investors at VC firms who make statements that supports
 Israe's war on the people of Gaza, to update rows to reflect a change in that
 support, or to add metadata and further documentary support.
+
+# The List
+
+| Firm name | Firm Website | Firm headquarters | Why on list | Removed? |
+| --------- | ------------ | ----------------- | ----------- | -------- |
