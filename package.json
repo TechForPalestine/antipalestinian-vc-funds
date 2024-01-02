@@ -1,0 +1,16 @@
+{
+  "name": "antipalestinian-vc-funds",
+  "version": "1.0.0",
+  "description": "[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "track_genocide_vcs": "node ./scripts/genocide_vc_list_tracker.js"
+  },
+  "keywords": [],
+  "author": "techforpalestine",
+  "license": "CC0 1.0 Universal",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  }
+}

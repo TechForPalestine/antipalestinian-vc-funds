@@ -62,6 +62,19 @@ publicly retract and apologize for their statements, and support the humanity of
 the people of the Palestinian people. We welcome these VCs to make PRs directly
 on this repository when that happens.
 
+# Run the tracker
+
+There is a little cheerio/node script which you can use to generate a string array of VC names which are still signatories to the aforementioned document. Just make sure you have node installed then run the following command:
+
+```bash
+# Install the dependencies if you haven't already
+> npm i
+# Run the script
+> npm run track_genocide_vcs
+```
+
+This script will be used to track any revocations of signatures and subsequently update the table below.
+
 # Contribute
 
 We welcome PRs to:
