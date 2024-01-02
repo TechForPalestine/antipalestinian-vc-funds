@@ -1,3 +1,6 @@
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
+
+
 # antipalestinian-vc-funds
 
 [South Africa's invocation of the Genocide
