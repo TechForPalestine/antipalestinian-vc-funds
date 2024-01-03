@@ -21,15 +21,15 @@ outrage at these firms' continued support for Israel throughout the genocide:
 
 - LPs such as pension funds whose members are actively organizing against
   genocide have told us they wish not to invest in VC funds who continue to
-  support the genocode.
+  support the genocide.
 
 - LPs such as sovereign wealth funds with Arab, Gulf, and Muslim partners
   have told us they will never invest in the firms who support the genocide of
   their people.
 
-- LPs and founders have also said they are shocked at the poor judegement of
+- LPs and founders have also said they are shocked at the poor judgement of
   these firms, who signed knowing Israel's long history of abuse of the
-  Palestinian people, the likelyhood of extreme violence -- which has now
+  Palestinian people, the likelihood of extreme violence -- which has now
   occurred. This poor judgement will damage these funds' reputation, along with
   their ability to continue to raise capital and invest in great companies in the
   future.
