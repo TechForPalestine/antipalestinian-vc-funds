@@ -59,7 +59,7 @@ list](https://docs.google.com/document/d/e/2PACX-1vTc_OIs8MSVxqz0To2diHiDd_UIQBg
 (which can be done by emailing
 [VCCommunity@seasideventures.com](mailto:VCCommunity@seasideventures.com)), or
 publicly retract and apologize for their statements, and support the humanity of
-the people of the Palestinian people. We welcome these VCs to make PRs directly
+the Palestinian people. We welcome these VCs to make PRs directly
 on this repository when that happens.
 
 # Run the tracker
