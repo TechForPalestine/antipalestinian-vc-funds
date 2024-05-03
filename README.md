@@ -169,7 +169,7 @@ We welcome PRs to:
 | Azure Capital Partners  | [azurecap.com/our-team](https://www.azurecap.com/our-team)  | San Francisco, California  | Venture Capital Statement of Support for Israel  |
 | b2venture  | [b2venture.vc](https://www.b2venture.vc/)  | Saint Gallen, Switzerland  | Venture Capital Statement of Support for Israel  |
 | Backerscc  | [backerscc.site](https://backerscc.site/)  | Lekki, Lagos  | Venture Capital Statement of Support for Israel  |
-| Bain Capital Ventures  |  [baincapitalventures.com](https://baincapitalventures.com/)  |  San Francisco, California  | Venture Capital Statement of Support for Israel  |
+| Bain Capital Ventures  |  [baincapitalventures.com](https://baincapitalventures.com/)  |  San Francisco, California  | Venture Capital Statement of Support for Israel, Israel Tech Mission  |
 | Balerion Space Ventures  | [balerionspace.com](https://balerionspace.com/)  | Dallas, Texas  | Venture Capital Statement of Support for Israel  |
 | Balkin Ventures  | [balkin.vc](https://balkin.vc/)  | El Segundo, California  | Venture Capital Statement of Support for Israel  |
 | Ballistic Ventures  | [ballisticventures.com](https://ballisticventures.com/)  | San Francisco Bay Area  | Venture Capital Statement of Support for Israel  |
@@ -242,7 +242,7 @@ We welcome PRs to:
 | Causeway Investments  | [causewaycap.com](https://www.causewaycap.com/)  | Los Angeles, CA  | Venture Capital Statement of Support for Israel  |
 | CEIIF  | [http://ceiif.com](http://www.ceiif.com/)  | Hong Kong  | Venture Capital Statement of Support for Israel  |
 | Cendana Capital  | [cendanacapital.com](https://www.cendanacapital.com/)  | San Francisco  | Venture Capital Statement of Support for Israel  |
-| Centre Street Partners  | [centrestreet.partners](https://centrestreet.partners/)  | New York, New York  | Venture Capital Statement of Support for Israel  |
+| Centre Street Partners  | [centrestreet.partners](https://centrestreet.partners/)  | New York, New York  | Venture Capital Statement of Support for Israel, Israel Tech Mission  |
 | Cervin ventures  | [cervin.com](https://www.cervin.com/)  | San Francisco  | Venture Capital Statement of Support for Israel  |
 | Chai Ventures  | [chaiventures.io](https://chaiventures.io/)  | New York, New York  | Venture Capital Statement of Support for Israel  |
 | Chapter One  | [chapterone.com](https://www.chapterone.com/)  | Los Angeles, California  | Venture Capital Statement of Support for Israel  |
@@ -259,6 +259,7 @@ We welcome PRs to:
 | Climate Innovation Capital  | [climateic.com](https://climateic.com/)  | Toronto, Ontario  | Venture Capital Statement of Support for Israel  |
 | Coefficient Capital  | [coefficientcap.com](https://www.coefficientcap.com/)  | New York, NY  | Venture Capital Statement of Support for Israel  |
 | Cohen Circle  | [cohencircle.com](https://cohencircle.com/)  | New York  | Venture Capital Statement of Support for Israel  |
+| Coatue  |  [coatue.com/](https://www.coatue.com/)  |  |  Israel Tech Mission  |
 | Colibri Equity Ventures  | [colibriequity.vc](https://colibriequity.vc/)  | New York, New York  | Venture Capital Statement of Support for Israel  |
 | Colle Capital Partners  | [colle.vc](https://colle.vc/)  | New York, New York  | Venture Capital Statement of Support for Israel  |
 | Collider Ventures  |  [www.collider.vc](https://www.collider.vc/)  |  Tel Aviv, Israel  | Venture Capital Statement of Support for Israel  |
@@ -415,12 +416,12 @@ We welcome PRs to:
 | Good Company Ventures  | [goodcompanygroup.org](http://www.goodcompanygroup.org/)  | Philadelphia, PA  | Venture Capital Statement of Support for Israel  |
 | Good Friends  |  [goodfriends.com](https://www.goodfriends.com/)  |  San Francisco, California  | Venture Capital Statement of Support for Israel  |
 | Good Seed Ventures  | [goodseedventures.com](https://goodseedventures.com/)  | Rheine, North Rhine-Westphalia  | Venture Capital Statement of Support for Israel  |
-| Gotham Ventures  | [gothamvc.com](https://gothamvc.com/)  | New York, New York,  | Venture Capital Statement of Support for Israel  |
+| Gotham Ventures  | [gothamvc.com](https://gothamvc.com/)  | New York, New York,  | Venture Capital Statement of Support for Israel, Israel Tech Mission  |
 | Graham & Walker  | [grahamwalker.com](https://grahamwalker.com/)  | Seattle, Washington  | Venture Capital Statement of Support for Israel  |
 | Graphite Ventures  | [graphitevc.com](https://www.graphitevc.com/)  | Toronto, ON  | Venture Capital Statement of Support for Israel  |
 | Gravity Climate Fund  | [gravityclimate.com](https://www.gravityclimate.com/)  | San Francisco, CA  | Venture Capital Statement of Support for Israel  |
 | Great Circle Ventures  | [greatcircle.vc](https://greatcircle.vc/)  | New York, New York.  | Venture Capital Statement of Support for Israel  |
-| GreatPoint Ventures  | [gpv.com](https://www.gpv.com/)  | San Francisco, California.  | Venture Capital Statement of Support for Israel  |
+| GreatPoint Ventures  | [gpv.com](https://www.gpv.com/)  | San Francisco, California.  | Venture Capital Statement of Support for Israel, Israel Tech Mission  |
 | Green Egg Ventures  | [greenegg.vc](https://www.greenegg.vc/)  | New York, New York.  | Venture Capital Statement of Support for Israel  |
 | Green Generation Fund  | [greengenerationfund.com](https://greengenerationfund.com/)  | Berlin, Germany.  | Venture Capital Statement of Support for Israel  |
 | Greenfield Partners  | [greensoil-investments.com](https://www.greensoil-investments.com/)  | southwestern Connecticut  | Venture Capital Statement of Support for Israel  |
@@ -758,7 +759,7 @@ We welcome PRs to:
 | Sequoia Capital  |  [sequoiacap.com/](https://www.sequoiacap.com/)  |  Menlo Park, California  |  genocide.vc  |
 | SHAKTI Ventures  |  |  | Venture Capital Statement of Support for Israel  |
 | Shavit Capital  |  |  | Venture Capital Statement of Support for Israel  |
-| Shine Capital  |  |  | Venture Capital Statement of Support for Israel  |
+| Shine Capital  |  |  | Venture Capital Statement of Support for Israel, Israel Tech Mission  |
 | Shoni Health Ventures  |  |  | Venture Capital Statement of Support for Israel  |
 | Shor Capital  |  |  | Venture Capital Statement of Support for Israel  |
 | Shorewind Capital  |  |  | Venture Capital Statement of Support for Israel  |
@@ -823,7 +824,7 @@ We welcome PRs to:
 | Team8  |  |  | Venture Capital Statement of Support for Israel  |
 | TechAviv Founder Partners  |  |  | Venture Capital Statement of Support for Israel  |
 | TechU Ventures  |  |  | Venture Capital Statement of Support for Israel  |
-| Tectonic Capital  |  |  | Venture Capital Statement of Support for Israel  |
+| Tectonic Capital  |  |  | Venture Capital Statement of Support for Israel, Israel Tech Mission  |
 | Tectonic Ventures  |  |  | Venture Capital Statement of Support for Israel  |
 | Teez Ventures  |  |  | Venture Capital Statement of Support for Israel  |
 | Ten Eleven Ventures  |  |  | Venture Capital Statement of Support for Israel  |
@@ -841,6 +842,7 @@ We welcome PRs to:
 | The Trendlines Group  |  |  | Venture Capital Statement of Support for Israel  |
 | The Venture Collective  |  |  | Venture Capital Statement of Support for Israel  |
 | The Worldwide Supply Chain Federation  |  |  | Venture Capital Statement of Support for Israel  |
+| The 98  |  [the98.com/](https://www.the98.com/)  |  |  Israel Tech Mission  |
 | Theodorus  |  |  | Venture Capital Statement of Support for Israel  |
 | Third Sphere  |  |  | Venture Capital Statement of Support for Israel  |
 | ThriveDX  |  |  | Venture Capital Statement of Support for Israel  |
@@ -878,6 +880,7 @@ We welcome PRs to:
 | Union Tech Ventures  |  |  | Venture Capital Statement of Support for Israel  |
 | Unless  |  |  | Venture Capital Statement of Support for Israel  |
 | Unless partners  |  |  | Venture Capital Statement of Support for Israel  |
+| Unorthodox Ventures  |  |  |  Israel Tech Mission  |
 | Unovis  |  |  | Venture Capital Statement of Support for Israel  |
 | Unwritten Capital  |  |  | Venture Capital Statement of Support for Israel  |
 | Up.Partners  |  |  | Venture Capital Statement of Support for Israel  |
@@ -931,6 +934,7 @@ We welcome PRs to:
 | Wrench Capital  |  |  | Venture Capital Statement of Support for Israel  |
 | XB Ventures  |  |  | Venture Capital Statement of Support for Israel  |
 | YL Ventures  |  |  | Venture Capital Statement of Support for Israel  |
+| yVentues  |  |  | Israel Tech Mission  |
 | Zag Capital  |  |  | Venture Capital Statement of Support for Israel  |
 | Zeal Capital Partners  |  |  | Venture Capital Statement of Support for Israel  |
 | Zeev Ventures  |  |  | Venture Capital Statement of Support for Israel  |
@@ -955,5 +959,5 @@ We welcome PRs to:
 | 81 Collection  |  |  | Venture Capital Statement of Support for Israel  |
 | 8VC  |  |  | Venture Capital Statement of Support for Israel  |
 | 91 Ventures  |  |  | Venture Capital Statement of Support for Israel  |
-| 97212 Ventures  |  |  | Venture Capital Statement of Support for Israel  |
+| 97212 Ventures  |  |  | Venture Capital Statement of Support for Israel, Israel Tech Mission  |
 | 9Yards Capital  |  |  | Venture Capital Statement of Support for Israel  |
