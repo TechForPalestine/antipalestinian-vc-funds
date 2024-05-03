@@ -360,6 +360,7 @@ We welcome PRs to:
 | Flare Capital Partners  | [flarecapital.com](https://www.flarecapital.com/)  | Boston, MA  | Venture Capital Statement of Support for Israel  |
 | Flint Capital  | [flintcap.com](https://flintcap.com/)  | Boston, MA  | Venture Capital Statement of Support for Israel  |
 | FLOODGATE  | [floodgate.com](https://www.floodgate.com/)  | Menlo Park, CA  | Venture Capital Statement of Support for Israel  |
+| Flori Ventures  |  [floriventures.com/](https://www.floriventures.com/)  |  San Francisco, CA  | genocide.vc  |
 | FLORA Ventures  | [floravc.com](https://www.floravc.com/)  | Tel Aviv, Israel  | Venture Capital Statement of Support for Israel  |
 | Fly Ventures  | [fly.vc](https://fly.vc/)  | Berlin  | Venture Capital Statement of Support for Israel  |
 | Flybridge  | [flybridge.com](https://www.flybridge.com/)  | Boston, Massachusetts  | Venture Capital Statement of Support for Israel  |
@@ -372,6 +373,7 @@ We welcome PRs to:
 | Founder Collective  | [foundercollective.com](https://foundercollective.com/)  | Cambridge, MA  | Venture Capital Statement of Support for Israel  |
 | Founders Factory  | [foundersfactory.com](https://foundersfactory.com/)  | London  | Venture Capital Statement of Support for Israel  |
 | Founders Venture Capital  | [foundersfund.com](https://foundersfund.com/)  | San Francisco, CA  | Venture Capital Statement of Support for Israel  |
+| Founder's Fund  |  [foundersfund.com](https://foundersfund.com/)  | San Francisco, CA  | genocide.vc  |
 | Foundery  |  [foundry.vc](https://foundry.vc/)  | Boulder, CO  | Venture Capital Statement of Support for Israel  |
 | Four Acres Capital  | [fouracres.vc](https://www.fouracres.vc/)  | New York, New York.  | Venture Capital Statement of Support for Israel  |
 | Framework Venture Partners  | [framework.vc](https://www.framework.vc/)  | Toronto, Ontario  | Venture Capital Statement of Support for Israel  |
@@ -552,7 +554,7 @@ We welcome PRs to:
 | Loop Ventures  |  |  | Venture Capital Statement of Support for Israel  |
 | Lorimer Ventures  |  |  | Venture Capital Statement of Support for Israel  |
 | Ludlow Ventures  |  |  | Venture Capital Statement of Support for Israel  |
-| Lux Ventures  |  
+| Lux Ventures  |  [luxcapital.com](https://www.luxcapital.com/)  | Menlo Park, California  |  genocide.vc   |
 | LVenture Group  |  |  | Venture Capital Statement of Support for Israel  |
 | Lyonshare  |  |  | Venture Capital Statement of Support for Israel  |
 | M-Fund  |  |  | Venture Capital Statement of Support for Israel  |
@@ -753,6 +755,7 @@ We welcome PRs to:
 | Screendoor  |  |  | Venture Capital Statement of Support for Israel  |
 | Seaside Ventures  |  |  | Venture Capital Statement of Support for Israel  |
 | Selah Ventures  |  |  | Venture Capital Statement of Support for Israel  |
+| Sequoia Capital  |  [sequoiacap.com/](https://www.sequoiacap.com/)  |  Menlo Park, California  |  genocide.vc  |
 | SHAKTI Ventures  |  |  | Venture Capital Statement of Support for Israel  |
 | Shavit Capital  |  |  | Venture Capital Statement of Support for Israel  |
 | Shine Capital  |  |  | Venture Capital Statement of Support for Israel  |
