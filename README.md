@@ -97,7 +97,7 @@ We welcome PRs to:
 | Acadian Ventures  | [acadianventures.com](https://www.acadianventures.com/)  | Northeastern US  | Venture Capital Statement of Support for Israel  |
 | Access Capital  | [accesscapital.com](https://www.accesscapital.com/)  | Paris - France  | Venture Capital Statement of Support for Israel  |
 | Acrew Capital  | [acrewcapital.com](https://www.acrewcapital.com/)  | Palo Alto, California  | Venture Capital Statement of Support for Israel  |
-| Acronym Venture Capital  | [acronymvc.com](https://www.acronymvc.com/)  | New York, New York  | Venture Capital Statement of Support for Israel  |
+| Acronym Venture Capital  | [acronym.vc](https://www.acronym.vc)  | New York, New York  | Venture Capital Statement of Support for Israel  |
 | Act One Ventures  | [actoneventures.com](https://actoneventures.com/)  | Los Angeles  | Venture Capital Statement of Support for Israel  |
 | Adasar Group Inc.  | [adasar.com](https://www.adasar.com/)  | New York City, New York, United States  | Venture Capital Statement of Support for Israel  |
 | Advaita Capital  | [advaitacap.com](https://www.advaitacap.com/)  | Boston, Massachusetts  | Venture Capital Statement of Support for Israel  |
@@ -125,7 +125,7 @@ We welcome PRs to:
 | Altitude Ventures  | [altvc.com](https://www.altvc.com/)  | Nashville, Tennessee  | Venture Capital Statement of Support for Israel  |
 | Amathaon Capital  | [amathaon.com](https://www.amathaon.com/)  | Munich, Germany  | Venture Capital Statement of Support for Israel  |
 | Amdocs Ventures  | [amdocs.com/ventures](https://www.amdocs.com/ventures)  | Chesterfield, Missouri, United States  | Venture Capital Statement of Support for Israel  |
-| America’s Frontier Fund  | [americasfrontier.org](https://americasfrontier.org/)  | Arlington, Virginia  | Venture Capital Statement of Support for Israel  |
+| America’s Frontier Fund  | [americasfrontier.org](https://www.americasfrontier.com/funds)  | Arlington, Virginia  | Venture Capital Statement of Support for Israel  |
 | Amiti Ventures  | [amiti.vc](https://www.amiti.vc/)  |  Tel Aviv, Israel  | Venture Capital Statement of Support for Israel  |
 | aMoon  |  [amoon.fund](https://www.amoon.fund/)  |  Ra'anana, Israel  | Venture Capital Statement of Support for Israel  |
 | Amplify Capital  | [amplifycapital.ca](https://www.amplifycapital.ca/)  | Ontario, Canada  | Venture Capital Statement of Support for Israel  |
@@ -140,7 +140,7 @@ We welcome PRs to:
 | Antigravity Capital  | [antigravity.capital](https://www.antigravity.capital/)  | San Francisco, USA  | Venture Capital Statement of Support for Israel  |
 | Antler  | [antler.co](https://www.antler.co/)  | Singapore  | Venture Capital Statement of Support for Israel  |
 | Apeira Capital  | [apeiracapital.com](https://apeiracapital.com/)  | New York, New York  | Venture Capital Statement of Support for Israel  |
-| AperiamVentures  | [aperiam.vc](https://aperiam.vc/)  | New York, New York  | Venture Capital Statement of Support for Israel  |
+| AperiamVentures  | [aperiam.vc](https://www.aperiam.vc/)  | New York, New York  | Venture Capital Statement of Support for Israel  |
 | Apollo Projects  | [apolloprojects.co.nz](https://www.apolloprojects.co.nz/)  | New Zealand  | Venture Capital Statement of Support for Israel  |
 | Arc Ventures  | [arc-vc.com](https://arc-vc.com/)  | New York  | Venture Capital Statement of Support for Israel  |
 | Arch Ventures  | [archventure.com](https://www.archventure.com/)  | Chicago, Illinois, United States  | Venture Capital Statement of Support for Israel  |
@@ -195,8 +195,8 @@ We welcome PRs to:
 | Bits x Bites  | [bitsxbites.com](https://www.bitsxbites.com/)  | Shanghai  | Venture Capital Statement of Support for Israel  |
 | BKR Capital  | [bkrcapital.ca](https://www.bkrcapital.ca/)  | Toronto, Canada  | Venture Capital Statement of Support for Israel  |
 | Blockwall  | [blockwall.capital](https://www.blockwall.capital/)  | Frankfurt, Germany  | Venture Capital Statement of Support for Israel  |
-| Blue Future Partners  |  [bfp.vc](bfp.vc/)  |  Berlin, Germany  | Venture Capital Statement of Support for Israel  |
-| Blue Lion  | [bfp.vc](https://www.bfp.vc/)  | Seattle, WA  | Venture Capital Statement of Support for Israel  |
+| Blue Future Partners  |  [bfp.vc](https://www.bfp.vc/)  |  Berlin, Germany  | Venture Capital Statement of Support for Israel  |
+| Blue Lion  | [bluelion.co](https://www.bluelion.co/)  | Seattle, WA  | Venture Capital Statement of Support for Israel  |
 | BlueRed Partners  |  [blueredpartners.com](https://blueredpartners.com/)  |  Singapore, Singapore  | Venture Capital Statement of Support for Israel  |
 | Bluestein Ventures  | [bluesteinventures.com](https://www.bluesteinventures.com/)  | Midwestern US  | Venture Capital Statement of Support for Israel  |
 | Blumberg Capital  |  [blumbergcapital.com](https://blumbergcapital.com/)  |  San Francisco, California  | Venture Capital Statement of Support for Israel  |
@@ -264,7 +264,7 @@ We welcome PRs to:
 | Colle Capital Partners  | [colle.vc](https://colle.vc/)  | New York, New York  | Venture Capital Statement of Support for Israel  |
 | Collider Ventures  |  [www.collider.vc](https://www.collider.vc/)  |  Tel Aviv, Israel  | Venture Capital Statement of Support for Israel  |
 | Comeback Capital  | [comeback.vc](https://www.comeback.vc/)  | Cleveland, Ohio  | Venture Capital Statement of Support for Israel  |
-| Company Ventures  | [companyventures.co](https://companyventures.co/)  | New York, New York  | Venture Capital Statement of Support for Israel  |
+| Company Ventures  | [companyventures.com](https://companyventures.com/)  | New York, New York  | Venture Capital Statement of Support for Israel  |
 | Compound Ventures  | [crypto.compound.vc](https://crypto.compound.vc/)  | New York, New York  | Venture Capital Statement of Support for Israel  |
 | Connexa Capital  | [connexacapital.com](https://connexacapital.com/)  | Hallandale Florida  | Venture Capital Statement of Support for Israel  |
 | Construct Capital  | [constructcap.com](https://constructcap.com/)  | Arlington, Texas  | Venture Capital Statement of Support for Israel  |
@@ -413,7 +413,7 @@ We welcome PRs to:
 | GM Ventures  | [gmventures.com](https://www.gmventures.com/site/us/en/gm-ventures/home.html) | Warren, MI  | Venture Capital Statement of Support for Israel  |
 | GoGlobal  | [goglobalgeo.com](https://goglobalgeo.com/)  | Miami, Florida  | Venture Capital Statement of Support for Israel  |
 | Golden Ventures  | [golden.ventures](https://www.golden.ventures/)  | Toronto, Ontario  | Venture Capital Statement of Support for Israel  |
-| Good Company Ventures  | [goodcompanygroup.org](http://www.goodcompanygroup.org/)  | Philadelphia, PA  | Venture Capital Statement of Support for Israel  |
+| Good Company Ventures  | [gc-vc.com](https://gc-vc.com/) | Philadelphia, PA  | Venture Capital Statement of Support for Israel  |
 | Good Friends  |  [goodfriends.com](https://www.goodfriends.com/)  |  San Francisco, California  | Venture Capital Statement of Support for Israel  |
 | Good Seed Ventures  | [goodseedventures.com](https://goodseedventures.com/)  | Rheine, North Rhine-Westphalia  | Venture Capital Statement of Support for Israel  |
 | Gotham Ventures  | [gothamvc.com](https://gothamvc.com/)  | New York, New York,  | Venture Capital Statement of Support for Israel, Israel Tech Mission  |
@@ -453,7 +453,7 @@ We welcome PRs to:
 | Hillsven  | [hillsven.com](https://hillsven.com)  | San Francisco Bay Area, CA  | Venture Capital Statement of Support for Israel  |
 | HINGE Capital  | [hingecapital.com](https://hingecapital.com/)  | Austin, TX  | Venture Capital Statement of Support for Israel  |
 | Hitchhiker Ventures  | [hitchhiker.vc](https://hitchhiker.vc/)  | San Francisco, California  | Venture Capital Statement of Support for Israel  |
-| Homebrew  | [brew.sh](https://brew.sh/)  | 300 N. Coit Road Suite 134. Richardson, TX 75080  | Venture Capital Statement of Support for Israel  |
+| Homebrew  | [homebrew.co][(https://homebrew.co/)  | 300 N. Coit Road Suite 134. Richardson, TX 75080  | Venture Capital Statement of Support for Israel  |
 | Honeystone Ventures  | [honeystonevc.com](https://www.honeystonevc.com/)  | Palo Alto, California.  | Venture Capital Statement of Support for Israel  |
 | Hookipa invest AG  | [hookipaag.ch](https://www.hookipaag.ch/)  | Pfäffikon SZ  | Venture Capital Statement of Support for Israel  |
 | House Of Ventures  | [houseof.vc](https://www.houseof.vc/)  | Los Angeles, California  | Venture Capital Statement of Support for Israel  |
